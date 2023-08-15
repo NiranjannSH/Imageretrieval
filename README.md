@@ -1,5 +1,8 @@
 # nirrrrrrrrrrrrr
+set up the paths for your image dataset directory and to store features directory .npy to avoide feature extraction every time you give input
+
 pretrained vgg16 architecture model for Image retrieval
+
 Run by entering 
 
 (streamlit run updatedpretrained.py)
